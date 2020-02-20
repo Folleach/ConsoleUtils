@@ -5,4 +5,12 @@
     <RootNamespace>Folleach.ConsoleUtils</RootNamespace>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\Andrey\Documents\GitHub\ConsoleUtils\ConsoleUtils\ConsoleUtils.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>C:\Users\Andrey\Documents\GitHub\ConsoleUtils\ConsoleUtils\ConsoleUtils.xml</DocumentationFile>
+  </PropertyGroup>
+
 </Project>

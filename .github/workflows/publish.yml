@@ -36,4 +36,4 @@ jobs:
     - name: Pack
       run: dotnet pack -c Release -o ./pack/
     - name: Push to NuGet
-      run: dotnet nuget push ./pack/Folleach.ConsoleUtils.*.nupkg -k ${{secrets.NUGET_API_KEY}} -s https://api.nuget.org/v3/index.json --skip-duplicate
+      run: dotnet nuget push ./pack/Folleach.ConsoleUtils.*.nupkg -k ${{secrets.NUGET_API_KEY}} -Source https://api.nuget.org/v3/index.json --skip-duplicate

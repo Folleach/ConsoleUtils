@@ -8,7 +8,6 @@
     <Title>Console Utils</Title>
     <Authors>Folleach</Authors>
     <Description>The library for easy to start console programs</Description>
-    <PackageLicenseUrl>https://github.com/Folleach/ConsoleUtils/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/Folleach/ConsoleUtils</RepositoryUrl>
     <PackageTags>console, utils</PackageTags>
     <Company>Folleach</Company>

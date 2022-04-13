@@ -2,6 +2,13 @@
 
 For help & simplify to your code <3
 
+## Install
+Add to your **csproj**
+```csproj
+<PackageReference Include="Folleach.ConsoleUtils" Version="1.0.0" />
+```
+Or download from [NuGet](https://www.nuget.org/packages/Folleach.ConsoleUtils/)
+
 ## Examples
 
 ### Setup console
